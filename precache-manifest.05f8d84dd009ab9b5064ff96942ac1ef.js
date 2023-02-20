@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "d918f2bae854191f47ce",
-    "url": "/ReactProject/static/css/main.1f0f2d11.chunk.css"
+    "revision": "808b111b526867f9e780",
+    "url": "/ReactProject/static/css/main.b9a7391b.chunk.css"
   },
   {
-    "revision": "d918f2bae854191f47ce",
-    "url": "/ReactProject/static/js/main.d918f2ba.chunk.js"
+    "revision": "808b111b526867f9e780",
+    "url": "/ReactProject/static/js/main.808b111b.chunk.js"
   },
   {
-    "revision": "7a303bf38abb072492c0",
-    "url": "/ReactProject/static/js/1.7a303bf3.chunk.js"
+    "revision": "49e0b8cdb36cae9bc05d",
+    "url": "/ReactProject/static/js/1.49e0b8cd.chunk.js"
   },
   {
-    "revision": "abb781c8cf10c3082202",
-    "url": "/ReactProject/static/js/2.abb781c8.chunk.js"
+    "revision": "4b52cc26b4bf47047a49",
+    "url": "/ReactProject/static/js/2.4b52cc26.chunk.js"
   },
   {
-    "revision": "016b08907bf821dd63ba",
-    "url": "/ReactProject/static/js/runtime~main.016b0890.js"
+    "revision": "5637bc3cd9dba92f0e93",
+    "url": "/ReactProject/static/js/runtime~main.5637bc3c.js"
   },
   {
     "revision": "50c23e6265e40d602f1ac080e2d4169a",
@@ -96,7 +96,7 @@ self.__precacheManifest = [
     "url": "/ReactProject/static/media/defaultBcg.aebaec51.jpeg"
   },
   {
-    "revision": "753dfa48290a7ec18c0f7ed5473d4ff7",
+    "revision": "4b7033ef7704b3a69fc4a96aae44eee8",
     "url": "/ReactProject/index.html"
   }
 ];
